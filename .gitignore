@@ -1,0 +1,26 @@
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.md
+*.tex
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Assignment paper and any compiled report PDF in the root.
+# (figures/*.pdf are NOT affected by this rule.)
+/*.pdf
