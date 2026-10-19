@@ -21,6 +21,3 @@ __pycache__/
 Thumbs.db
 .DS_Store
 
-# Assignment paper and any compiled report PDF in the root.
-# (figures/*.pdf are NOT affected by this rule.)
-
